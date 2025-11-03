@@ -38,8 +38,8 @@ This example implements a simple timer and connects it to the GPIOs.
 First, clone the repository:
 
 ```bash
-git clone https://github.com/efabless/openframe_timer_example.git
-cd openframe_timer_example
+git clone https://github.com/srivatsanchellappa/s130_7160_OF.git
+cd s130_7160_OF
 ```
 
 Then, download all dependencies:
